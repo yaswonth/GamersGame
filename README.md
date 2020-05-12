@@ -1,2 +1,3 @@
 # GamersGame
-This app uses users location.
+This app uses users facebook.
+location also
